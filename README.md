@@ -9,12 +9,12 @@
 ![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781D)
 ![Tor](https://img.shields.io/badge/Tor-80449C)
 
-Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old senior high school student and amateur developer from New Taipei City, Taiwan.\
+Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old 9th grade senior high school student and amateur developer from New Taipei City, Taiwan.\
 Some of the projects I am currently working on are [Android-Non-Root](https://github.com/Willie169/Android-Non-Root), [bython](https://github.com/Willie169/bython), [PISMiniGames](https://github.com/PythonIsSlowOrg/PISMiniGames), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), [PISCppLibrary](https://github.com/PythonIsSlowOrg/PISCppLibrary), and [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).\
 The languages I used most often are Traditional Chinese (native), English, C++, Python, and LaTeX, Markdown. And I am learning Japanese, Taiwanese Hokkien, C, Java, JavaScript/TypeScript, Rust, and HTML/CSS.\
-I am also learning and/or developing tools regarding Termux, Shizuku, Android Debug Bridge, Tor, tracker blockers, cross-language programming, LaTeX/TeX, machine learning models and algorithms especially for financial scenarios, hardware emulation and virtualization, and information security.\
-My favorite subjects are information engineering and computer science, economics, finance, electrical engineering, physics, mathematics, philosophy, and chemistry.\
-I enjoy playing [Diplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, and coding in my free time.\
+I am also learning and/or developing tools regarding Termux, Shizuku and Android Debug Bridge, Tor, cross-language programming such as Pybind11, LaTeX/TeX, machine learning models, algorithms, hardware emulation and virtualization such as QEMU and proot, privacy and information security, Android customization, investment management especially risk management, technical analysis, and auto trading.\
+My favorite subjects are information engineering and computer science, economics, finance, electrical engineering, physics, mathematics, and philosophy.\
+I enjoy playing [Diplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, writing,and coding in my free time.\
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
   bc1qm7fuvza2tktvjzfmvf37vw6yft5ntd2u5gh9l0
