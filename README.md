@@ -1,4 +1,4 @@
-![komarev](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&style=plastic&label=Profile+Views&abbreviated=true)
+![komarev](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![Java](https://img.shields.io/badge/Java-F89820)
@@ -14,7 +14,7 @@ Some of the projects I am currently working on are [Android-Non-Root](https://gi
 The languages I used most often are Traditional Chinese (native), English, C++, Python, and LaTeX, Markdown. And I am learning Japanese, Taiwanese Hokkien, C, Java, JavaScript/TypeScript, Rust, and HTML/CSS.\
 I am also learning and/or developing tools regarding Termux, Shizuku, Android Debug Bridge, Tor, tracker blockers, cross-language programming, LaTeX/TeX, machine learning models and algorithms especially for financial scenarios, hardware emulation and virtualization, and information security.\
 My favorite subjects are information engineering and computer science, economics, finance, electrical engineering, physics, mathematics, philosophy, and chemistry.\
-I enjoy playing [Diplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching anime, reading books, and coding in my free time.\
+I enjoy playing [Diplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, and coding in my free time.\
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
   bc1qm7fuvza2tktvjzfmvf37vw6yft5ntd2u5gh9l0
