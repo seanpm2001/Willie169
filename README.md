@@ -11,11 +11,12 @@
 ![Tor](https://img.shields.io/badge/Tor-80449C)
 
 Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan.\
-Some projects I am working on are [Android-Non-Root](https://github.com/Willie169/Android-Non-Root), [bython](https://github.com/Willie169/bython), [PISMiniGames](https://github.com/PythonIsSlowOrg/PISMiniGames), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), [PISCppLibrary](https://github.com/PythonIsSlowOrg/PISCppLibrary), [cross-language-programming](https://github.com/Willie169/cross-language-programming), and [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy). Some projects, ideas, odds and ends in my learning and developing path are in [temp](https://github.com/Willie169/temp).\
+The projects I am mainly working on recently are [Android-Non-Root](https://github.com/Willie169/Android-Non-Root), [mancala-android](https://github.com/Willie169/mancala-android), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), and [cross-language-programming](https://github.com/Willie169/cross-language-programming). Some other projects of mine are [bython](https://github.com/Willie169/bython), [PISMiniGames](https://github.com/PythonIsSlowOrg/PISMiniGames), [PISCppLibrary](https://github.com/PythonIsSlowOrg/PISCppLibrary), and [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).\
 The languages I used most often are Traditional Chinese (native), English, C++, Python, and LaTeX. And I am learning Japanese, Taiwanese (Taiwanese Hokkien), C, Java, JavaScript/TypeScript, Rust, HTML, and CSS.\
 I am also learning and/or developing tools regarding Termux, Shizuku and Android Debug Bridge, Tor, cross-language programming such as Pybind11, LaTeX, machine learning, algorithms, data science, emulation and virtualization such as QEMU and proot, privacy and information security, and investment management especially risk management, technical analysis, and auto trading.\
 My favorite subjects are computer science and information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy.\
 I enjoy playing [Diplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, writing,and coding in my free time.\
+I am the former Associate Teacher of the Zhi-Chan Class of Chinese Classics Culture Education Association of Taiwan.\
 If you want to send me messages, you can create an issue or a pull request in [IssueAndPRChat](https://github.com/Willie169/IssueAndPRChat).\
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
