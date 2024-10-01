@@ -1,4 +1,4 @@
-![komarev](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![Java](https://img.shields.io/badge/Java-F89820)
@@ -6,17 +6,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624)
 ![Termux](https://img.shields.io/badge/Termux-000000)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080)
-![Android Debug Bridge](https://img.shields.io/badge/Android%20Debug%20Bridge-3DDC84)
+![Android](https://img.shields.io/badge/Android-3DDC84)
 ![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781D)
 ![Tor](https://img.shields.io/badge/Tor-80449C)
 
 Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan.\
 The projects I am mainly working on recently are [Android-Non-Root](https://github.com/Willie169/Android-Non-Root), [mancala-android](https://github.com/Willie169/mancala-android), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), and [cross-language-programming](https://github.com/Willie169/cross-language-programming). Some other projects of mine are [bython](https://github.com/Willie169/bython), [PISMiniGames](https://github.com/PythonIsSlowOrg/PISMiniGames), [PISCppLibrary](https://github.com/PythonIsSlowOrg/PISCppLibrary), and [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).\
 The languages I used most often are Traditional Chinese (native), English, C++, Python, and LaTeX. And I am learning Japanese, Taiwanese (Taiwanese Hokkien), C, Java, JavaScript/TypeScript, Rust, HTML, and CSS.\
-I am also learning and/or developing tools regarding Termux, Shizuku and Android Debug Bridge, Tor, cross-language programming such as Pybind11, LaTeX, machine learning, algorithms, data science, emulation and virtualization such as QEMU and proot, privacy and information security, and investment management especially risk management, technical analysis, and auto trading.\
+I am also learning and/or developing tools regarding Termux, Shizuku, Android apps and utilities, Tor, cross-language programming such as Pybind11, LaTeX, machine learning, algorithms, data science, emulation and virtualization such as QEMU and proot, and investment management especially risk management, technical analysis, and auto trading.\
 My favorite subjects are computer science and information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy.\
-I enjoy playing [Diplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, writing,and coding in my free time.\
-I am the former Associate Teacher of the Zhi-Chan Class of Chinese Classics Culture Education Association of Taiwan.\
+I enjoy playing [webDiplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, writing,and coding in my free time.\
+I am the former Assistant Professor of the Department of Chinese Classics, the Department of Brain Training, and the Department of Logic of the Zhi-Chan Class of the Chinese Classics Culture Education Association of Taiwan.\
 If you want to send me messages, you can create an issue or a pull request in [IssueAndPRChat](https://github.com/Willie169/IssueAndPRChat).\
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
