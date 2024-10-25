@@ -10,13 +10,15 @@
 ![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781D)
 ![Tor](https://img.shields.io/badge/Tor-80449C)
 
-Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan.\
-I am the former Assistant Professor of the Department of Chinese Classics, the Department of Brain Training, and the Department of Logic of the Zhi-Chan School of the Chinese Classics Culture Education Association of Taiwan, the former Chief Editor of the CSJ Group, and the Chef Programing Officer of Python Is Slow Organization.\
-The projects I am working on recently are [Android-Non-Root](https://github.com/Willie169/Android-Non-Root) and [mancala-android](https://github.com/Willie169/mancala-android). Some done projects are [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit) and [mancala-cli](https://github.com/Willie169/mancala-cli). Some other projects of mine are [bython](https://github.com/Willie169/bython), [grammars-v4](https://github.com/Willie169/grammars-v4), [PISMiniGames](https://github.com/PythonIsSlowOrg/PISMiniGames), [PISCppLibrary](https://github.com/PythonIsSlowOrg/PISCppLibrary), and [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).\
-The languages I used most often are Traditional Chinese (native), English, C++, Python, and LaTeX. And I am learning Japanese, Taiwanese (Taiwanese Hokkien), C, Java, JavaScript/TypeScript, Rust, HTML, and CSS.\
-I am also learning and/or developing tools regarding Termux, Shizuku, Android apps and utilities, Tor, cross-language programming such as Pybind11, LaTeX, machine learning, algorithms, data science, emulation and virtualization such as QEMU and proot, and investment management especially risk management, technical analysis, and auto trading.\
-My favorite subjects are computer science and information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy.\
-I enjoy playing [webDiplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, writing,and coding in my free time.\
+Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan.<br>
+I am the Chef Programing Officer of PythonIsSlowOrg, the former Assistant Professor of the Department of Chinese Classics, the Department of Brain Training, and the Department of Logic of the Zhi-Chan School of the Chinese Classics Culture Education Association of Taiwan,and the former Chief Editor of the CSJ Literature Group.<br>
+My best project is Android Non Root: [Website](https://willie169.github.com), [App](https://github.com/Willie169/Android-Non-Root). It's a tutorial exploring a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhancing Android devices’ functionality, security, privacy, and customization without the need for root access.<br>
+Some done works of mine are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), and [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit).<br>
+I am also contributing open source projects like [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4) and working with friends on [PISCppLibrary](https://github.com/PythonIsSlowOrg/PISCppLibrary) and [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).<br>
+The languages I used most often are Traditional Chinese (native), English, C/C++, Python, and LaTeX. I am also learning Japanese, Java, JavaScript, Rust, HTML, and CSS.<br>
+I am interested in and learning cross-language programming, machine learning, DSA, OS, investment management, and bot trading.<br>
+My favorite subjects are computer science and information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy.<br>
+I enjoy playing [webDiplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, writing literatures, and coding in my free time.<br>
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
   bc1qm7fuvza2tktvjzfmvf37vw6yft5ntd2u5gh9l0
