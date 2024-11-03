@@ -11,10 +11,19 @@
 ![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781D)
 
 Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan.<br>
-I am the Chef Programing Officer of PythonIsSlowOrg, the former Assistant Professor of the Department of Chinese Classics, the Department of Brain Training, and the Department of Logic of the Zhi-Chan School of the Chinese Classics Culture Education Association of Taiwan, and the former Chief Editor of the CSJ Literature Group.<br>
-My best project is Android Non Root: [Website](https://willie169.github.com), [App](https://github.com/Willie169/Android-Non-Root). It's a tutorial exploring a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance Android devices’ functionality, security, privacy, and customization without the need for root access.<br>
-Some done works of mine are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), and [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit).<br>
-I am also contributing open-source projects like [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4) and working with friends on [PISCppLibrary](https://github.com/PythonIsSlowOrg/PISCppLibrary) and [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).<br>
+I am the Chef Programing Officer of PythonIsSlowOrg, the former Assistant Professor of the Zhi-Chan School of the Chinese Classics Culture Education Association in Taiwan, and the former Chief Editor of the CSJ Literature Group.<br>
+The best project of mine is Android Non Root, which is a tutorial that explore a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance your Android device’s functionality, security, privacy, and customization without the need for root access. It has three versions:
+
+<ul>
+<li>The HTML version: <a href="https://willie169.github.io">https://willie169.github.io</a>.</li>
+<li>The repository of the HTML version: <a href="https://github.com/Willie169/Willie169.github.io">https://github.com/Willie169/Willie169.github.io</a>.</li>
+<li>The Markdown version: <a href="https://github.com/Willie169/Android-Non-Root">https://github.com/Willie169/Android-Non-Root</a>.</li>
+<li>The app version: <a href="https://github.com/Willie169/Android-Non-Root-App/releases/download/v1.0/com.willie.androidnonroot_10.apk">https://github.com/Willie169/Android-Non-Root-App/releases/download/v1.0/com.willie.androidnonroot_10.apk</a>.</li>
+<li>The repository of the app version: <a href="https://github.com/Willie169/Android-Non-Root-App">https://github.com/Willie169/Android-Non-Root-App</a>.</li>
+</ul>
+
+Some other works of mine are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), [format-converter](https://github.com/Willie169/format-converter), and [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit).<br>
+I am also contributing open-source projects like [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4). I am also working with my friends [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy) and [PID](https://github.com/Willie169/PID).<br>
 The languages I used most often are Traditional Chinese (native), English, C/C++, Python, and LaTeX. I am also learning Japanese, Java, JavaScript, Rust, HTML, and CSS.<br>
 I am interested in and learning cross-language programming, machine learning, DSA, OS, investment management, and bot trading.<br>
 My favorite subjects are computer science and information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy.<br>
