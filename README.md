@@ -12,14 +12,7 @@
 
 Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan.<br>
 I am the Chef Programing Officer of PythonIsSlowOrg, the former Assistant Professor of the Zhi-Chan School of the Chinese Classics Culture Education Association in Taiwan, and the former Chief Editor of the CSJ Literature Group.<br>
-One of the best project of mine is Android Non Root, which is a tutorial that explore a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance your Android device’s functionality, security, privacy, and customization without the need for root access. It has three versions:
-
-* The HTML version: <https://willie169.github.io>.
-* The repository of the HTML version: <https://github.com/Willie169/Willie169.github.io>.
-* The Markdown version: <https://github.com/Willie169/Android-Non-Root>.
-* The app version: <https://github.com/Willie169/Android-Non-Root-App/releases/download/v1.0/com.willie.androidnonroot%5F10.apk>.
-* The repository of the app version: <https://github.com/Willie169/Android-Non-Root-App>.
-
+One of the best project of mine is Android Non Root, which is a tutorial that explore a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance your Android device’s functionality, security, privacy, and customization without the need for root access. It has three versions:[HTML](https://willie169.github.io), [Markdown](https://github.com/Willie169/Android-Non-Root), and [App](https://github.com/Willie169/Android-Non-Root-App).<br>
 Another work that I am pround of is [tw-gifted-k12-notes](https://github.com/Willie169/tw-gifted-k12-notes), which is notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.<br>
 Some other works of mine are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), [format-converter](https://github.com/Willie169/format-converter), and [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit).<br>
 I am also contributing to open-source projects such as [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4), and working with my friends in [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg) on projects such as [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy) and [PID](https://github.com/Willie169/PID).<br>
